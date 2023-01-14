@@ -61,7 +61,7 @@ body {
 }
 
 input::placeholder {
-  font-weight: 600;
+  font-weight: 650;
 }
 
 .nav-bar {
@@ -75,7 +75,7 @@ a {
 }
 
 .nav-bar h1 {
-  font-weight: 700;
+  font-weight: 750;
   padding: 10px;
   font-size: 18px;
 }
