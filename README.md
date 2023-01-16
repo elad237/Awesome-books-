@@ -6,6 +6,8 @@
   <br/>
 
   <h3><b>Awesome books with Javascript object</b></h3>
+  
+  </div>
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
